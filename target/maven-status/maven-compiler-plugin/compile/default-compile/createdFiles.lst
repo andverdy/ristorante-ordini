@@ -1,0 +1,11 @@
+com\restaurant\ordini\adapter\OrdiniAdapter.class
+com\restaurant\ordini\config\RestTemplateConfig.class
+com\restaurant\ordini\entities\LocaliEntity$LocaliEntityBuilder.class
+com\restaurant\ordini\services\OrdiniService.class
+com\restaurant\ordini\entities\OrdiniEntity.class
+com\restaurant\ordini\entities\OrdiniEntity$OrdiniEntityBuilder.class
+com\restaurant\ordini\OrdiniApplication.class
+com\restaurant\ordini\adapter\OrdiniAdapter$1.class
+com\restaurant\ordini\controller\OrdiniController.class
+com\restaurant\ordini\entities\LocaliEntity.class
+com\restaurant\ordini\repositories\OrdiniRepository.class
