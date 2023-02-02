@@ -19,7 +19,7 @@ public class OrdiniAdapter {
     private final RestTemplate restTemplate;
 
     public <T> ResponseEntity<T> getOrdini() throws Exception {
-        String url = "http://localhost:8080/locali/getLocali";
+        String url = "http://localhost:8082/locali/getLocali";
         Map<String, String> urlParams = new HashMap<>();
         HttpHeaders headers = createHeader();
         HttpEntity<T> requestEntity = new HttpEntity<>(null, headers);
